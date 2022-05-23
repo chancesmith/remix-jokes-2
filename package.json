@@ -23,6 +23,7 @@
   "devDependencies": {
     "@remix-run/dev": "^1.5.1",
     "@remix-run/eslint-config": "^1.5.1",
+    "@types/react": "^18.0.9",
     "esbuild-register": "^3.3.2",
     "eslint": "^8.15.0",
     "prisma": "^3.14.0"
